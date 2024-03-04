@@ -1,2 +1,3 @@
 # Store-Management-System-Using-Python-
-Hellow Everyone, This is My First Python Project On Store Management 
+Hellow Everyone Parikshit This Side
+This is my first Python Project On "Store Management System Or Inventory Management System" 
